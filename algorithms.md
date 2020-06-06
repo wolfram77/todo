@@ -1,3 +1,5 @@
+# github
+
 - [js-algorithms](https://github.com/duereg/js-algorithms)
 - [codezilla](https://github.com/Asiatik/codezilla)
 - [computer-science](https://github.com/davidshariff/computer-science)
@@ -32,3 +34,8 @@
 - [js-algorithms-drills](https://github.com/SF-WDI-LABS/js-algorithms-drills)
 - [HackerRank](https://github.com/ynyeh0221/HackerRank)
 - [dsjslib](https://github.com/monmohan/dsjslib)
+
+
+# npm
+
+- [ds.algo](https://www.npmjs.com/package/ds.algo)
