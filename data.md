@@ -1,0 +1,5 @@
+- [sorting.js](https://github.com/jcjohnson/sorting.js)
+- [Sorting-Algorithms](https://github.com/diptangsu/Sorting-Algorithms)
+- [Sorts](https://github.com/damonare/Sorts)
+- [graph.js](https://github.com/devenbhooshan/graph.js)
+- [js-graph-algorithms](https://github.com/chen0040/js-graph-algorithms)
